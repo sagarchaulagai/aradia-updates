@@ -1,0 +1,9 @@
+{
+    "latest_version": "v2.0.0",
+    "changelogs": [
+        "Added Recommendation System",
+        "Added app update within itself system",
+        "Now recently played system",
+        "History management"
+    ]
+}
