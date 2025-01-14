@@ -1,5 +1,5 @@
 {
-    "latest_version": "v2.0.0",
+    "latest_version": "v1.9.0",
     "changelogs": [
         "Added Recommendation System",
         "Added app update within itself system",
